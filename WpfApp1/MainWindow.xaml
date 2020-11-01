@@ -11,6 +11,7 @@
             <Label Content="Text"></Label>
             <TextBlock Text="dsfsd"></TextBlock>
             <Button Content="ggg"></Button>
+            <Button Content="ggg"></Button>
         </StackPanel>
     </Grid>
 </Window>
